@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=olrlozl&fontAlign=80&fontAlignY=40&color=gradient&customColorList=1" alt="header" style="width:100%;"/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=olrlozl&show_icons=true&theme=buefy" style="height: 170px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olrlozl&layout=compact" style="height: 170px;"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thakd221" style="height: 170px;"/>
   
   <h3>Front-end</h3>
